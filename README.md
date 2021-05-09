@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-js-async-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-js-async-USERNAME)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-js-async-Arni92x.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-js-async-Arni92x)
 
 # hft-asgmt-js-async
 
